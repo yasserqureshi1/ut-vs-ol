@@ -1,4 +1,4 @@
-# Exploring the Impact of Treated Insecticidal Bednets on Mosquito Behaviour 
+# Exploring the Impact of Insecticide-Treated Bednets on Mosquito Behaviour 
 
 ## About the Project
 
