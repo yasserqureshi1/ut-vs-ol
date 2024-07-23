@@ -1,0 +1,19 @@
+# Virtual Environment
+/venv/
+/shap/venv
+
+# Other
+.DS_Store
+src/__pycache__/
+src/css/__pycache__/
+/.vscode
+/catboost_info/
+
+/tuning/data_old/
+/tuning/data/
+/tuning/results/
+/tuning/feature-boxplot/
+
+#pycache
+/tuning/__pycache__/
+/tuning/css/__pycache__/
